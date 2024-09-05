@@ -5,4 +5,4 @@ https://medium.com/swift2go/embedding-python-interpreter-inside-a-macos-app-and-
 https://butternut-ray-869.notion.site/Embedding-Python-in-a-Swift-App-Using-Xcode-Apple-Silicon-and-Intel-59f5a3c832914a96990dfcc0e610c720
 
 - Distribute directly works! 
-- Testflight currently fails for icon, sandbox & application category!
+- Testflight currently fails for sandbox!
